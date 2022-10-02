@@ -1,3 +1,9 @@
+## Job Assessment Exercise
+
+Fetch data objects from api.
+Show them on screen with Back and Next buttons.
+Show a notification when reaching the last object.
+
 ## Available Scripts
 
 In the project directory, you can run:
